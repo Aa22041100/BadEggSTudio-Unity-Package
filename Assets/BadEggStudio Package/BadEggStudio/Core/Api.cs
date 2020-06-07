@@ -7,7 +7,7 @@ using BadEggStudio.Core.Exception;
 namespace BadEggStudio.Core {
 	public class Api {
 		Http http;
-		string urlPrefix = "https://dev.juicyapphk.com/first_ferry_web/api";
+		string urlPrefix = "<YOUR_API_URL_HERE>";
 
 		#region Constructor
 		/// <summary>

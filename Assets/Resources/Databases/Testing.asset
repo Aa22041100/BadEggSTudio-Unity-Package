@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60082f5c586345a4da64d724153c2438, type: 3}
+  m_Name: Testing
+  m_EditorClassIdentifier: 
+  items:
+  - itemName: New Item
+    itemIcon: {fileID: 0}
+    itemStats:
+      minDamage: 0
+      maxDamage: 0
+      minDef: 0
+      maxDef: 0
+      range: 0
+      STR: 0
+      AGI: 0
+      VIT: 0
+      INT: 0
+      DEX: 0
+      LUK: 0
+    isBuyable: 0
+    buyValue: 0
+    isSellable: 0
+    sellValue: 0
+    isUpgradeable: 0
+    upgradeValue: 0
+    isDropable: 0
+    dropRate: 0
+    isTradable: 0
+    isAuctionable: 0
